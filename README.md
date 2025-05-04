@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiipsathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="ashiipsathsarani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiipsathsarani" alt="ashiipsathsarani" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/diaryazy" target="blank"><img src="https://img.shields.io/twitter/follow/diaryazy?logo=twitter&style=for-the-badge" alt="diaryazy" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java**
 
